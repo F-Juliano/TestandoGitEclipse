@@ -12,9 +12,10 @@ public class TestesGerais {
 			System.out.println(i);
 		}
 		catch(ArithmeticException e){
-			System.out.println("Tratando exceção");
+			System.out.println("Tratando exceÃ§Ã£o");
 			e.printStackTrace();
 		}
 	}
+	//Apenas para testar o pull em um novo brach
 
 }
